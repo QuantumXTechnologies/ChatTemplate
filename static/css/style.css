@@ -57,7 +57,7 @@ div.chats::-webkit-scrollbar {
 }
 
 .botAvatar {
-  border-radius: 50%;
+  border-radius: 90%;
   width: 1.5em;
   height: 1.5em;
   float: left;
@@ -198,7 +198,7 @@ blockquote {
   /* display: none; */
   position: fixed;
   padding: 5px;
-  width: 10%;
+  width: 25%;
   bottom: 0;
   right: 0;
   cursor: pointer;
